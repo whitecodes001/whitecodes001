@@ -17,7 +17,7 @@ Hi there! 👋 I'm White<br><br>Welcome to my GitHub profile!<br>I am a newbie D
 ![](https://github-profile-trophy.vercel.app/?username=whitecodes001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-----
+"It’s not a bug – it’s an undocumented feature." – Anonymous
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=whitecodes001&limit=5&theme=dark&combine_all_yearly_contributions=true)
